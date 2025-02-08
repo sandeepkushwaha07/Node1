@@ -1,0 +1,25 @@
+{
+  "name": "sandeep_server",
+  "version": "1.0.0",
+  "description": "this will create a nodejs backend server",
+  "keywords": [],
+  "homepage": "https://github.com/sandeepkushwaha07/Node1#readme",
+  "bugs": {
+    "url": "https://github.com/sandeepkushwaha07/Node1/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandeepkushwaha07/Node1.git"
+  },
+  "license": "ISC",
+  "author": "sandeep",
+  "type": "commonjs",
+  "main": "node1.js",
+  "scripts": {
+    "start": "node node1.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9"
+  }
+}
